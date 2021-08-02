@@ -1,0 +1,100 @@
+@font-face {
+    font-family: 'vazir';
+    src: url('../fonts/Vazir.eot') format('eot');
+    src : url('../fonts/Vazir.ttf') format('truetype'),
+    url('../fonts/Vazir.woff') format('woff');
+}
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+   font-family: 'vazir';
+   text-decoration: none;
+   outline: none;
+   list-style: none;
+   scroll-behavior: smooth;
+   border: none;
+}
+
+body{
+   direction: rtl;
+   /*height: 100vh;
+   display: flex;
+   align-items: center;
+   justify-content: center; 
+   flex-direction: column;*/
+   overflow-x:hidden;
+}
+.dropdown-menu.show{
+    text-align: right;
+}
+.navbar-brand,.skill-item h3{
+    font-family: cursive;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
